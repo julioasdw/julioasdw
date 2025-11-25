@@ -1,6 +1,30 @@
 # 💫 About Me:
-# Sobre Mim<br><br>## Formação<br>Sou estudante de **Ciências da Computação**.<br><br>## Habilidades Técnicas<br>Tenho experiência em várias linguagens de programação e tecnologias, incluindo:<br>- **JavaScript**<br>- **HTML/CSS**<br>- **Bootstrap**<br>- **Java**<br>- **SQL**<br>- **C/C++**<br>- **APRENDENDO PHP**<br><br>## Projetos<br>Tenho alguns projetos que desenvolvi durante o curso. Alguns deles incluem:<br>- Desenvolvimento de websites responsivos utilizando as tecnologias descritas.<br><br>## Objetivos Profissionais<br>Estou focado em desenvolver minhas habilidades em tecnologias web e estou sempre buscando aprender mais sobre novas práticas e ferramentas de desenvolvimento. Meu objetivo é me tornar um especialista em desenvolvimento web e contribuir para projetos inovadores e desafiadores.<br><br>## Idade<br>Tenho 24 anos.
+# Sobre Mim<br><br>
 
+## Formação
+Sou estudante de **Ciências da Computação**.<br><br>
+
+## Habilidades Técnicas
+Tenho experiência em várias linguagens de programação e tecnologias, incluindo:<br>
+- **Bootstrap**<br>
+- **Java**<br>
+- **SQL**<br>
+- **C/C++**<br>
+- **PHP (aprendendo)**<br>
+- **React**<br>
+- **Node.js**<br><br>
+
+## Projetos
+Tenho alguns projetos que desenvolvi durante o curso. Alguns deles incluem:<br>
+- Desenvolvimento de websites responsivos utilizando as tecnologias descritas.<br>
+- Criação de interfaces dinâmicas com **React**.<br>
+- Desenvolvimento de APIs e serviços backend utilizando **Node.js**.<br><br>
+
+## Objetivos Profissionais
+Estou focado em desenvolver minhas habilidades em tecnologias web e estou sempre buscando aprender mais sobre novas práticas e ferramentas de desenvolvimento. Meu objetivo é me tornar um especialista em desenvolvimento web e contribuir para projetos inovadores e desafiadores.<br><br>
+
+## Idade
+Tenho 24 anos.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juliocxd) 
